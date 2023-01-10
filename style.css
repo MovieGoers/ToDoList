@@ -1,0 +1,21 @@
+.main-title{
+    text-align: center;
+    color:white;
+    box-sizing: border-box;
+    width: 100%;
+    padding: 10px;
+    background-color: black;
+}
+.list-area{
+    text-align: center;
+    font-size: 200%;
+}
+.type-area{
+    text-align: center;
+}
+ul{
+    list-style: none;
+}
+li{
+    padding:5px;
+}
